@@ -1,0 +1,6 @@
+numpy
+tensorflow
+scikit-learn
+pathlib
+keras
+tf_keras
