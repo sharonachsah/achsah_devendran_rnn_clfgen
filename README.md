@@ -29,6 +29,12 @@ It leverages TensorFlow/Keras, Wikipedia for classification data, and Project Gu
 
 ## 🧰 Dependencies
 
+This project requires Python 3.7+ and the following libraries:
+```bash
+py -3.11 -m venv venv
+venv\Scripts\activate
+```bash
+
 Install requirements with:
 
 ```bash
